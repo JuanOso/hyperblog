@@ -3,6 +3,5 @@ Esta es la historia de juan osorio
 Juan osorio tiene 25 años y nacio en colombia
 viviendo en san Fraancisco
 
-hablaremos de el hoy.
+hablaremos de su vida y obra maestra.
 
-lr hago un cambio a la version 2 visto desde git log
