@@ -1,4 +1,5 @@
 body
+
 {
     color:#333;
     text-align: left;
@@ -45,3 +46,12 @@ body
 {
     padding: 1em;
 }
+
+#footer
+{
+background: #333;
+color: white;
+text-align: center;
+padding: 0.5em;
+}
+
